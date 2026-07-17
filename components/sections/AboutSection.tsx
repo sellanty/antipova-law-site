@@ -13,7 +13,7 @@ const experienceCards = [
   },
   {
     value: siteConfig.experience.judicialYears,
-    label: "работы в судебной системе"
+    label: "работы в государственных органах и в суде"
   }
 ];
 

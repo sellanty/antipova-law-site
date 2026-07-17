@@ -42,12 +42,12 @@ export function HeroSection({ onContactClick }: HeroSectionProps) {
               <p className="mt-1 text-sm text-neutral-500">лет юридического стажа</p>
             </div>
             <div className="glass-card rounded-3xl p-5 shadow-[0_16px_50px_rgba(0,0,0,0.045)]">
-              <p className="text-3xl font-semibold">17</p>
+              <p className="text-3xl font-semibold">16</p>
               <p className="mt-1 text-sm text-neutral-500">лет адвокатской деятельности</p>
             </div>
             <div className="glass-card rounded-3xl p-5 shadow-[0_16px_50px_rgba(0,0,0,0.045)]">
               <p className="text-3xl font-semibold">9</p>
-              <p className="mt-1 text-sm text-neutral-500">лет в судебной системе</p>
+              <p className="mt-1 text-sm text-neutral-500">лет работа в государственных органах и в суде</p>
             </div>
           </div>
         </div>

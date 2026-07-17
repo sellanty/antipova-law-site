@@ -14,12 +14,12 @@ export const siteConfig: SiteConfig = {
   office: "Студеновская улица, 19, помещение 1",
   registry: {
     number: "48/506",
-    region: "Липецкая область"
+    region: "Липецкой области"
   },
   experience: {
     totalSince: "с 2000 года",
     totalYears: "26 лет",
-    advocacyYears: "17 лет",
+    advocacyYears: "16 лет",
     judicialYears: "9 лет"
   },
   mapCenter: [52.6188, 39.6218],
